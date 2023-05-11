@@ -35,6 +35,6 @@ const decrypted= (await DecryptQmcWasm(cipherText, extension)).data;
 [音乐解锁]: https://unlock-music.dev/
 [Web预构建版本]: https://git.unlock-music.dev/um/-/packages/generic/web-build/
 [CLI预构建版本]: https://git.unlock-music.dev/um/-/packages/generic/cli-build/
-[授权协议]: https://github.com/xhacker-zzz/QmcWasm/blob/master/LICENSE.txt
-[qmc_wasm.ts]: https://github.com/xhacker-zzz/QmcWasm/blob/master/qmc_wasm.ts
-[GitHub Actions]: https://github.com/xhacker-zzz/QmcWasm/actions
+[授权协议]: https://github.com/nullptr-0/QmcWasm/blob/master/LICENSE.txt
+[qmc_wasm.ts]: https://github.com/nullptr-0/QmcWasm/blob/master/qmc_wasm.ts
+[GitHub Actions]: https://github.com/nullptr-0/QmcWasm/actions
