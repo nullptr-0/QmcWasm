@@ -1,4 +1,4 @@
-#include"TencentTea.hpp"
+#include "TencentTea.hpp"
 #include "base64.hpp"
 
 void simpleMakeKey(uint8_t salt, int length, std::vector<uint8_t> &key_buf) {
